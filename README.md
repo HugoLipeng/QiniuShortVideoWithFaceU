@@ -1,0 +1,2 @@
+# QiniuShortVideoWithFaceU
+七牛短视频和FaceU美颜融合demo
